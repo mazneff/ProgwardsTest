@@ -20,7 +20,7 @@ public class Fibonacci {
 			//System.out.println(f);
 		}
 		//return f;
-		return 222;
+		return BigInteger.ONE;
 	}
 
 
