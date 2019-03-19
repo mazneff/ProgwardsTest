@@ -9,7 +9,7 @@ import java.math.BigInteger;
  */
 
 @SuppressWarnings("WeakerAccess")
-public class Fibonacci {
+public class Fibonacci1 {
 
 	public static BigInteger dynamic(int n) {
 		BigInteger a = BigInteger.ONE, b = BigInteger.ONE, f = BigInteger.ZERO;
