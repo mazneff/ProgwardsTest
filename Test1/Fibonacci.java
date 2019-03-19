@@ -19,8 +19,8 @@ public class Fibonacci1 {
 			b = f;
 			//System.out.println(f);
 		}
-		return f;
-		//return 222;
+		//return f;
+		return 222;
 	}
 
 
