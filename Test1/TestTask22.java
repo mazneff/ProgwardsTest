@@ -1,4 +1,4 @@
-package TestTask22;
+package Test1;
 
 public class TestTask22 {
 
