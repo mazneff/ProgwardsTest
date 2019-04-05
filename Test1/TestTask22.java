@@ -6,6 +6,6 @@ public class TestTask22 {
         /* Это супер-функция */
 	public String t1() {
 		return c1;
-	//..
+	//...
 	}
 }
